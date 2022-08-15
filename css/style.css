@@ -8027,7 +8027,7 @@ h1, h2, h3, h4, h5,
   max-width: 1250px; }
 
 .text-primary {
-  color: #303030 !important; }
+  color: #4D4D4D!important; }
 
 .ftco-navbar-light {
   background: transparent !important;
@@ -8147,7 +8147,7 @@ h1, h2, h3, h4, h5,
         padding-right: 0 !important;
         padding-bottom: 0 !important; } }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #303030 !important; }
+      color: #4D4D4D!important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
       background: #303030;
@@ -8186,7 +8186,7 @@ h1, h2, h3, h4, h5,
       padding-bottom: 0.9rem !important;
       color: #000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #303030 !important; }
+        color: #4D4D4D!important; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
@@ -8441,7 +8441,7 @@ h1, h2, h3, h4, h5,
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
       margin-top: -10px;
-      color: #303030 !important;
+      color: #4D4D4D!important;
       -moz-transition: all 0.7s ease;
       -o-transition: all 0.7s ease;
       -webkit-transition: all 0.7s ease;
@@ -8522,7 +8522,7 @@ h1, h2, h3, h4, h5,
     outline: none; }
   .btn.btn-primary {
     background: #303030 !important;
-    border: 1px solid #303030 !important;
+    border: 1px solid #4D4D4D!important;
     color: #fff !important; }
     .btn.btn-primary:hover {
       border: 1px solid #303030;
@@ -8562,8 +8562,8 @@ h1, h2, h3, h4, h5,
       background: transparent !important;
       color: #000 !important; }
       .btn.btn-black.btn-outline-black:hover {
-        border: 1px solid #303030 !important;
-        background: #303030 !important;
+        border: 1px solid #4D4D4D!important;
+        background: #4D4D4D!important;
         color: #fff !important; }
 
 .search-wrap-1 {
@@ -8602,7 +8602,7 @@ h1, h2, h3, h4, h5,
     .search-property-1 .form-group .form-control.btn {
       padding: 22px 10px !important;
       font-size: 20px;
-      background: #303030 !important;
+      background: #4D4D4D!important;
       border: none !important;
       color: #fff !important; }
   .search-property-1 .form-group .select-wrap {
@@ -8808,7 +8808,7 @@ h1, h2, h3, h4, h5,
       color: rgba(0, 0, 0, 0.3);
       border: 1px solid rgba(0, 0, 0, 0.1); }
       .nav-pills li a.active {
-        background: #303030 !important;
+        background: #4D4D4D!important;
         color: #fff !important;
         border: 1px solid #303030; }
 
@@ -9092,7 +9092,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #303030 !important; }
+  background: #4D4D4D!important; }
 
 .bg-black {
   background: #000; }
